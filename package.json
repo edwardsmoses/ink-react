@@ -2,5 +2,9 @@
   "name": "ink-react",
   "version": "1.0.0",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "ink": "^3.0.8",
+    "react": "^17.0.1"
+  }
 }
