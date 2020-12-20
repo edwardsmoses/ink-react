@@ -26,6 +26,6 @@ $ ink-react --help
     $ ink-react --name=Edwards --from=Lagos
     Hello, Jane from Lagos
 		
-    ![output](Output.png "Output")
-		
 ```
+
+![output](Output.png "Output")
