@@ -20,8 +20,12 @@ $ ink-react --help
 
   Options
     --name  Your name
+		--from  Your Location
 
   Examples
-    $ ink-react --name=Jane
-    Hello, Jane
+    $ ink-react --name=Edwards --from=Lagos
+    Hello, Jane from Lagos
+		
+    ![output](Output.png "Output")
+		
 ```
