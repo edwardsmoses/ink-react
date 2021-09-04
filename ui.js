@@ -5,9 +5,9 @@ const { Text, Box } = require("ink");
 const App = ({ name = "Stranger", from = "Nigeria" }) => (
 	<Box borderStyle="round" borderColor="green">
 		<Text>
-			Hello,{" "}
+			Hello from {from}, {" "}
 			<Text color="green">
-				{name} from {from}
+				Welcome, {name} from {from}
 			</Text>
 		</Text>
 	</Box>
