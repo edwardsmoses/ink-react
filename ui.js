@@ -2,7 +2,7 @@
 const React = require("react");
 const { Text, Box } = require("ink");
 
-const App = ({ name = "Stranger", from = "neverland" }) => (
+const App = ({ name = "Stranger", from = "Nigeria" }) => (
 	<Box borderStyle="round" borderColor="green">
 		<Text>
 			Hello,{" "}
